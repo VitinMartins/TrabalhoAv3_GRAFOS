@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Freeman&display=swap" rel="stylesheet">
+    <script src="index.js"></script>
+    <title>Registro de filmes</title>
+</head>
+<body>
+    <div class="conteudo-principal">
+        <form class="conteudo-form">
+            <div class="campo">
+                <label>Qual seu nome?</label>
+                <input type="text" name="nome" id="nome" placeholder="Digite seu nome...">
+            </div>
+            <div class="campo">
+                <label>Qual sua idade?</label>
+                <input type="number" name="idade" id="idade" placeholder="Digite sua idade...">
+            </div>
+            <div class="campo">
+                <label>Qual seu gênero de filme predileto?</label>
+                <select name="genero" id="genero">
+                    <option value="Ação">Ação</option>
+                    <option value="Aventura">Aventura</option>
+                    <option value="Comédia">Comédia</option>
+                    <option value="Terror">Terror</option>
+                    <option value="Ficção científica">Ficção científica</option>
+                    <option value="Romance">Romance</option>
+                </select>
+            </div>
+            <div class="campo">
+                <label>Possuem algum Diretor(a) de preferência?</label>
+                <input type="text" name="diretor" id="diretor" placeholder="Digite o nome de algum diretor(a)...">
+            </div>
+            <div class="campo">
+            <div id="btn">
+                <button id="btn">Pesquisar filmes recomendados</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

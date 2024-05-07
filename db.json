@@ -1,0 +1,29 @@
+[
+    {
+        "titulo": "Invocação do Mal",
+        "ano": 2013,
+        "diretor": "James Wan",
+        "genero": ["Terror"],
+        "classificacao": 14,
+        "sinopse": "Harrisville, Estados Unidos. Um casal (Ron Livinston e Lili Taylor) muda para uma casa nova ao lado de suas cinco filhas. Inexplicavelmente, estranhos acontecimentos começam a assustar as crianças, o pai e, principalmente, a mãe. Preocupada com algumas manchas que aparecem em seu corpo e com uma sequência de sustos que levou, ela decide procurar um famoso casal de investigadores paranormais (Patrick Wilson e Vera Farmiga), mas eles não aceitam o convite, acreditando ser somente mais um engano de pessoas apavoradas com canos que fazem barulhos durante a noite ou coisas do gênero. Porém, quando eles aceitam fazer uma visita ao local, descobrem que algo muito poderoso e do mal reside ali. Agora, eles precisam descobrir o que é e o porquê daquilo tudo acontecendo com os membros daquela família. É quando o passado começa a revelar uma entidade demoníaca querendo continuar sua trajetória de maldades.",
+        "avaliacao": 4.0
+      },
+      {
+        "titulo": "Um Lugar Silencioso",
+        "ano": 2018,
+        "diretor": "John Krasinski",
+        "genero": ["Terror", "Suspense"],
+        "classificacao": 14,
+        "sinopse": "Um Lugar Silencioso mostra uma realidade pós-apocaliptica, onde a população da Terra foi dizimada por uma entidade assustadora que ataca quando escuta um menor sinal de barulho. Em uma fazenda dos Estados Unidos, acompanhamos uma família do meio-oeste que tenta se manter em total silêncio para sobreviver à ameaça que ronda a sua casa.",
+        "avaliacao": 3.0
+      },  
+      {
+        "titulo": "O Homem das Trevas",
+        "ano": 2016,
+        "diretor": "Fede Alvarez",
+        "genero": ["Terror, Suspense"],
+        "classificacao": 14,
+        "sinopse": "Três adolescentes sempre escaparam de seus roubos, todos perfeitamente planejados. No entanto, quando realizam seu último crime, assaltando a casa de um senhor cego, o jogo muda. Encarcerados no local, eles precisam lutar por suas vidas contra um psicopata cheio de segredos e terrivelmente habilidoso.",
+        "avaliacao": 4.0
+      }
+    ]
